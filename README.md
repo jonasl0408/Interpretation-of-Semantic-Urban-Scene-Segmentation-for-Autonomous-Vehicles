@@ -6,8 +6,13 @@
 # Download the sample prepared dataset
 Download and extract the following:
 https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
-# Train the model and save the pretrained model
-# Intrepret the segmentation result of a given image using the pretrained model
+# Usage
+* [Code for Seg-GradCAM method](./seggradcam/seggradcam.py#L118)
+* [Code for Seg-GradCAM++ method](./seggradcamplusplus/seggradcam.py#L118)
+* [Code for Seg-VanillaGrad method](./Seg-VanillaGrad%26Seg-SmoothGrad/saliency/core/base.py#L234)
+* [Code for Seg-SmoothGrad method](./Seg-VanillaGrad%26Seg-SmoothGrad/saliency/core/base.py#L443)
+* [Notebook for training 4 segmentation models](./image-segmentation-cityscapes_resnet50.ipynb)
+* [Applying Seg-Grad-CAM on pretrained model](./pretrained_models.ipynb) 
 # Credits:
 [keras_segmentation](https://github.com/divamgupta/image-segmentation-keras)\
 [SegGradCAM](https://github.com/kiraving/SegGradCAM)\
