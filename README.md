@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
       booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
       year      = {2020},
       doi       = {10.1609/aaai.v34i10.7244}
-    }\
+    }
 [VanillaGrad_SmoothGrad](http://github.com/pair-code/saliency/blob/master)\
 [GradCAM++,GradCAM](https://github.com/jacobgil/pytorch-grad-cam)\
 @misc{jacobgilpytorchcam,
@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
   year={2021},
   publisher={GitHub},
   howpublished={\url{https://github.com/jacobgil/pytorch-grad-cam}},
-}\
+}
 [Attention_Unet](https://github.com/lixiaolei1982/Keras-Implementation-of-U-Net-R2U-Net-Attention-U-Net-Attention-R2U-Net.-)\
 [DANet](https://github.com/junfu1115/DANet)\
 @article{DBLP:journals/corr/abs-1809-02983,
@@ -45,7 +45,7 @@ https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
   timestamp = {Thu, 16 Dec 2021 10:06:40 +0100},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1809-02983.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-}\
+}
 # Citation:
 @misc{jonasl0408,
   title={Interpretation of Semantic Urban Scene Segmentation for Autonomous Vehicles
