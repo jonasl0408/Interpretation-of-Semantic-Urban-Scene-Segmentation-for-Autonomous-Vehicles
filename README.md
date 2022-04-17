@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
 [VanillaGrad_SmoothGrad](http://github.com/pair-code/saliency/blob/master)\
 [GradCAM++,GradCAM](https://github.com/jacobgil/pytorch-grad-cam)\
 [Attention_Unet](https://github.com/lixiaolei1982/Keras-Implementation-of-U-Net-R2U-Net-Attention-U-Net-Attention-R2U-Net.-)\
-[DANet](https://github.com/junfu1115/DANet)\
+[DANet](https://github.com/junfu1115/DANet)
 # Citation:
 @misc{jonasl0408,
   title={Interpretation of Semantic Urban Scene Segmentation for Autonomous Vehicles
